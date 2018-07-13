@@ -1,0 +1,23 @@
+x = "E-I-E-I-O"
+
+print('Old MacDonald had a farm')
+print(x)
+print("And on his farm he had a cow")
+print(x)
+print("With a moo-moo here")
+print("And a moo-moo there")
+print("Here a moo, there a moo")
+print("Everywhere a moo-moo")
+print("Old MacDonald had a farm")
+print(x)
+
+print('Old MacDonald had a farm')
+print(x)
+print("And on his farm he had a chicken")
+print(x)
+print("With a cluck-cluck here")
+print("And a cluck-cluck there")
+print("Here a cluck, there a cluck")
+print("Everywhere a cluck-cluck")
+print("Old MacDonald had a farm")
+print(x)
